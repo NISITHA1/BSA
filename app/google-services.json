@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "510082966662",
+    "firebase_url": "https://locationtracker-88cc4.firebaseio.com",
+    "project_id": "locationtracker-88cc4",
+    "storage_bucket": "locationtracker-88cc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510082966662:android:6334ac858ff70bcc",
+        "android_client_info": {
+          "package_name": "in.kinitoknl.locationtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510082966662-fn3k6i950qmtjc59sbmbe1aec44dclqu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.kinitoknl.locationtracker",
+            "certificate_hash": "910cb22c6c62f83298a250bd0579709eaabc9abb"
+          }
+        },
+        {
+          "client_id": "510082966662-60b60q249062a9fnc8kmcf1m3vit16bu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqwOQoji9mtnGggV53iFWOLrunOwSZ2P8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510082966662-60b60q249062a9fnc8kmcf1m3vit16bu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
